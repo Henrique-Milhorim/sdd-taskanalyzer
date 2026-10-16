@@ -1,0 +1,4 @@
+# Dependências autorizadas (CONTEXT_RULES: apenas stdlib + pytest)
+pytest>=8.0
+# Opcional, apenas para medir cobertura (>= 90%):
+# pytest-cov>=5.0
